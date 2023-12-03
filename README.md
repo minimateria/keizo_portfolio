@@ -1,3 +1,3 @@
 # keizo_portfolio
 
-tes tes tes
+Hello!, this repository is a place for my engineering presentation. Thank you very much!
